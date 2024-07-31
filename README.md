@@ -19,9 +19,9 @@ This repo is used to manage a database of scientific literature hosted at:
 
 [https://mcomunita.github.io/audio-effects-literature](https://mcomunita.github.io/audio-effects-literature)
 
-please note the link will redirect you to a Notion:tm: web page
+please note the link will redirect you to a Notion :tm: web page
 
-I chose to use Notion:tm: since it allows to visualize a dynamic table with filtering, ordering, tagging options. It's also easy to update when new literature comes out.
+I chose to use Notion :tm: since it allows to visualize a dynamic table with filtering, ordering, tagging options. It's also easy to update when new literature comes out.
 
 The papers are on topics like:
 
