@@ -42,7 +42,8 @@ Here is an example of table entry:
 
 <img src="./assets/table_entry.png" width="100%"><br>
 
-To signal a publication, simply open a new issue including as much info as possible about it:
+To signal a publication, simply open a new issue (there is a template for it) including as much info as possible about it:
+
 [*] = required
 
 - [*] Link: URL to the publication
