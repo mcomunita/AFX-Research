@@ -26,6 +26,7 @@ I chose to use Notion :tm: since it allows to visualize a dynamic table with fil
 The papers are on topics like:
 
 - audio effects modelling
+- audio effects classification and parameters estimation
 - audio effects removal
 - audio effects circuits emulation
 - differentiable and non-differentiable methods
