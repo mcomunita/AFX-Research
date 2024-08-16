@@ -2,9 +2,15 @@
 
 <img src="./assets/pedals.png" width="280">
 
-# Audio Effects Literature
+# Audio Effects Research
 
-#### **Scientific literature about Audio Effects**
+### **Scientific literature about Audio Effects**
+
+![Static Badge](https://img.shields.io/badge/modeling-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/modeling-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/modeling-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/modeling-red?style=for-the-badge)
+
 
 [Marco Comunità](https://mcomunita.github.io/)
 
