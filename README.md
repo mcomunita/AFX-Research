@@ -6,10 +6,14 @@
 
 ### **Scientific literature about Audio Effects**
 
+![Static Badge](https://img.shields.io/badge/classification-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/estimation-red?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/modeling-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/modeling-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/modeling-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/modeling-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/processing-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/removal-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/style_transfer-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/reviews-red?style=for-the-badge)
+
 
 
 [Marco Comunità](https://mcomunita.github.io/)
