@@ -6,13 +6,13 @@
 
 ### **Scientific literature about Audio Effects**
 
-![Static Badge](https://img.shields.io/badge/classification-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/estimation-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/modeling-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/processing-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/removal-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/style_transfer-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/reviews-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/classification-red?style=for-the-badge&color=%23f94144)
+![Static Badge](https://img.shields.io/badge/estimation-blue?style=for-the-badge&color=%23f3722c)
+![Static Badge](https://img.shields.io/badge/modeling-red?style=for-the-badge&color=%23f8961e)
+![Static Badge](https://img.shields.io/badge/processing-gray?style=for-the-badge&color=%23f9c74f)
+![Static Badge](https://img.shields.io/badge/removal-coral?style=for-the-badge&color=%2390be6d)
+![Static Badge](https://img.shields.io/badge/style_transfer-cornflowerblue?style=for-the-badge&color=%2343aa8b)
+![Static Badge](https://img.shields.io/badge/reviews-palevioletred?style=for-the-badge&color=%23577590)
 
 
 
