@@ -45,9 +45,11 @@ The papers are on topics like:
 - literature reviews
 
 ---
-## Stars
+## Support
 
-Please consider giving this repo a star ![GitHub Repo stars](https://img.shields.io/github/stars/mcomunita/audio-effects-research) if you appreciate our work.
+To show your support please consider giving this repo a star ![GitHub Repo stars](https://img.shields.io/github/stars/mcomunita/audio-effects-research)
+
+Thanks!
 
 ---
 ## Contributions
