@@ -27,7 +27,7 @@ Centre for Digital Music, Queen Mary University of London, UK<br>
 
 This repo is used to manage a database of scientific literature hosted at:
 
-[https://mcomunita.github.io/audio-effects-literature](https://mcomunita.github.io/audio-effects-literature)
+[https://mcomunita.github.io/audio-effects-research](https://mcomunita.github.io/audio-effects-research)
 
 please note the link will redirect you to a Notion :tm: web page
 
