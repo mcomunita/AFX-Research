@@ -58,7 +58,7 @@ We invite anyone to contribute to this collection by submitting a new issue for 
 
 Here is an example of table entry:
 
-<img src="./assets/table_entry.png" width="100%"><br>
+<img src="./assets/table_entry_2.png" width="100%"><br>
 
 To signal a publication, simply open a new issue (there is a template for it) including as much info as possible about it:
 
@@ -82,7 +82,7 @@ To signal a publication, simply open a new issue (there is a template for it) in
 
 Here's an example of the info associated to each publication:
 
-<img src="./assets/entry_page.png" width="700px">
+<img src="./assets/entry_page_2.png" width="700px">
 
 ---
 ## Improvements
