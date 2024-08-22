@@ -73,7 +73,7 @@ To signal a publication, simply open a new issue (there is a template for it) in
 - [*] Device(s) Type(s): what type of effects the publication is about (e.g., reverb, delay)
 - Device(s)s: what specific devices/circuits have been modelled (e.g., Ibanez Tube Screamer or Vacuum Tube Stage)
 - Parametric/Controllable: Y/N - whether the publication includes some sort of controllability
-- [*] Neural/Differentiable: wY/N - hether or not a differentiable approach was used
+- [*] Neural/Differentiable: Y/N - whether or not a differentiable approach was used
 - Method: which method(s) or combination of methods is the publication based on (e.g., Neural Network, Wiener-Hammersten or State-space)
 - Webpage: URL of the page associated with the publication
 - Code: URL of the repo associated with the publication
