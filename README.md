@@ -47,7 +47,9 @@ The papers are on topics like:
 ---
 ## Support
 
-To show your support please consider giving this repo a star ![GitHub Repo stars](https://img.shields.io/github/stars/mcomunita/AFX-Research?style=for-the-badge)
+To show your support please consider giving this repo a star: 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/mcomunita/AFX-Research?style=for-the-badge)
 
 Thanks!
 
