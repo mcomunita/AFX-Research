@@ -47,7 +47,7 @@ The papers are on topics like:
 ---
 ## Support
 
-To show your support please consider giving this repo a star ![GitHub Repo stars](https://img.shields.io/github/stars/mcomunita/audio-effects-research)
+To show your support please consider giving this repo a star ![GitHub Repo stars](https://img.shields.io/github/stars/mcomunita/AFX-Research)
 
 Thanks!
 
