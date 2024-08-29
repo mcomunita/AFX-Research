@@ -47,7 +47,7 @@ The papers are on topics like:
 ---
 ## Support
 
-To show your support please consider giving this repo a star: 
+To show your support please consider giving this repo a star.
 
 Thanks!
 
