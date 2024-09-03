@@ -14,9 +14,9 @@
 ![Static Badge](https://img.shields.io/badge/style_transfer-cornflowerblue?style=for-the-badge&color=%2343aa8b)
 ![Static Badge](https://img.shields.io/badge/reviews-palevioletred?style=for-the-badge&color=%23577590)
 
+[Paper](https://zenodo.org/records/13380393) | [Website](https://mcomunita.github.io/AFX-Research)
 
-
-[Marco Comunità](https://mcomunita.github.io/)
+[Marco Comunità](https://mcomunita.github.io/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/)
 
 Centre for Digital Music, Queen Mary University of London, UK<br>
 
@@ -49,7 +49,7 @@ The papers are on topics like:
 
 If you find this project useful to your research, please consider citing this:
 
-```
+```BibTex
 @article{comunita2024afx,
   title={AFX-Research: an Extensive and Flexible Repository of Research about Audio Effects},
   author={Comunita, Marco and Reiss, J},
