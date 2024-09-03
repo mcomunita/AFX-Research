@@ -23,19 +23,6 @@ Centre for Digital Music, Queen Mary University of London, UK<br>
 </div>
 
 ---
-## Citation
-
-If you find this project useful to your research, please consider citing this:
-
-```
-@article{comunita2024afx,
-  title={AFX-Research: an Extensive and Flexible Repository of Research about Audio Effects},
-  author={Comunita, Marco and Reiss, J},
-  year={2024}
-}
-```
-
----
 ## Project
 
 This repo is used to manage a database of scientific literature hosted at:
@@ -56,6 +43,19 @@ The papers are on topics like:
 - white-, gray- and black-box approaches to audio effects modelling
 - approaches based on: neural networks, differentiable digital signal processing, waveshaping, wave digital filters, dynamic convolution, Wiener-Hammerstein models, Volterra series, State-spaces...
 - literature reviews
+
+---
+## Citation
+
+If you find this project useful to your research, please consider citing this:
+
+```
+@article{comunita2024afx,
+  title={AFX-Research: an Extensive and Flexible Repository of Research about Audio Effects},
+  author={Comunita, Marco and Reiss, J},
+  year={2024}
+}
+```
 
 ---
 ## Support
